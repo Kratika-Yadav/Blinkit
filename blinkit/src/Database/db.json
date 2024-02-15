@@ -1,0 +1,244 @@
+{
+  "groceries": [
+    {
+      "id": "1",
+      "gname": "Apple",
+      "price": "100",
+      "unit": "KG",
+      "image": "https://www.shutterstock.com/image-photo/red-apple-isolated-on-white-600nw-1727544364.jpg",
+      "desc": "Nutrient Value & Benefits - Contains Fibre, Flavonoids. Fiber is good for Digestive Health. Vitamin C acts as a powerful antioxidant and also helps formation of collagen that is responsible for skin and hair health. Vitamin C helps in boosting immunity, keeping ailments at the bay.",
+      "type": "fruit",
+      "shelf_life": "7"
+    },
+    {
+      "id": "2",
+      "gname": "Strawberry",
+      "price": "95",
+      "unit": "KG",
+      "image": "https://www.health.com/thmb/zvfL1rCWAPg3XzidfAqURuCmttk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberries-c5f434e7729e47c5b32c0deaa029386c.jpg",
+      "desc": "Strawberries are not only delicious but also nutritious. They are rich in vitamin C, manganese, folate, potassium, and antioxidants.",
+      "type": "fruit",
+      "shelf_life": "2"
+    },
+    {
+      "gname": "Pomegranate",
+      "price": "346",
+      "unit": "kg",
+      "image": "https://5.imimg.com/data5/KC/BK/MY-41645336/fresh-pomegranate-fruit.jpg",
+      "desc": "Pomegranate has a juicy cluster of sparkling, opaque, red coloured seeds which taste sweet. It can be used for topping desserts and to make juices and fruit salads.",
+      "type": "fruit",
+      "shelf_life": "2",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "gname": "Green Grapes",
+      "price": "50",
+      "unit": "KG",
+      "image": "https://greenvalleyjakarta.com/wp-content/uploads/2021/10/7144.png",
+      "desc": "Sonaka Green Grapes are juicy elongated berries with sweet fresh taste. They are considered best table fruits with low fat and high levels of sugar, vitamin C and vitamin K. These seedless grapes are extremely low in calories with high nutrition and taste.",
+      "type": "fruit",
+      "shelf_life": "2"
+    },
+    {
+      "id": "5",
+      "gname": "Potato",
+      "price": "40",
+      "unit": "KG",
+      "image": "https://m.media-amazon.com/images/I/313dtY-LOEL._AC_UF1000,1000_QL80_.jpg",
+      "desc": "New potatoes have thin, wispy skins and a crisp, waxy texture. They are young potatoes and unlike their fully grown counterparts, they keep their shape once cooked and cut. They are also sweeter because their sugar has not yet converted into starch, and are therefore particularly suited to salads.",
+      "type": "vegetable",
+      "shelf_life": "3"
+    },
+    {
+      "id": "6",
+      "gname": "Onion",
+      "price": "37",
+      "unit": "KG",
+      "image": "https://m.media-amazon.com/images/I/71GUFttn0jL._AC_UF1000,1000_QL80_.jpg",
+      "desc": "Onion is a staple in India and are commonly chopped and used as an ingredient in various hearty warm dishes. They are versatile and can be baked, boiled, braised, grilled, fried, roasted, sautéed, or eaten raw in salads.",
+      "type": "vegetable",
+      "shelf_life": "4"
+    },
+    {
+      "id": "7",
+      "gname": "Tomato",
+      "price": "44",
+      "unit": "KG",
+      "image": "https://m.media-amazon.com/images/I/61ZJhcdG7LL._AC_UF1000,1000_QL80_.jpg",
+      "desc": "Tomatoes are a significant source of umami flavor.The tomato is consumed in diverse ways, raw or cooked, in many dishes, sauces, salads, and drinks. While tomatoes are fruits—botanically classified as berries—they are commonly used culinarily as a vegetable ingredient or side dish.",
+      "type": "vegetable",
+      "shelf_life": "2"
+    },
+    {
+      "id": "8",
+      "gname": "Carrot",
+      "price": "50",
+      "unit": "KG",
+      "image": "https://m.media-amazon.com/images/I/71S6oQqVa5L.jpg",
+      "desc": "Carrots are healthy and crunchy vegetables, perfect for serving raw in salads. Sweet in taste, they can also be cooked and used in a number of dishes like rice preparations, soups and noodles.",
+      "type": "vegetable",
+      "shelf_life": "2"
+    },
+    {
+      "id": "9",
+      "gname": "Bread",
+      "price": "400",
+      "unit": "gram",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhg.com%2Fmilk-bread-6746891&psig=AOvVaw3StkrGzVn7fdBj8BTzgSuD&ust=1706796012887000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi3q-Lkh4QDFQAAAAAdAAAAABAE",
+      "desc": "Whole Wheat Flour (Atta) 32%, Refined Wheat flour, Yeast, Sugar, Vitual Gluten, Iodised salt, Preservative, Improvers, Acidity Regulator, Vitamins",
+      "type": "dairy",
+      "shelf_life": "5 days"
+    },
+    {
+      "id": "13",
+      "gname": "Amul Lassi",
+      "price": "20",
+      "unit": "ml",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jiomart.com%2Fp%2Fgroceries%2Famul-lassi-250-ml-tetra-pak%2F590086916&psig=AOvVaw10VIdxpgKMMR3uQUsJEYCJ&ust=1706796285180000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiLm-Tlh4QDFQAAAAAdAAAAABAE",
+      "desc": " Rich in calcium and milk proteins Refreshingly sweet beverage  Tasty and healthy",
+      "type": "dairy",
+      "shelf_life": "5 days"
+    },
+    {
+      "id": "14",
+      "gname": "Green Capsicum",
+      "price": "30",
+      "unit": "gram",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHrbyGvC8JZe7_J3Vl4lFFbJMdLXFztttjXQ&usqp=CAU",
+      "desc": "Contains Folic acid, Viatmin C, Vitamin K, Lutein.Vitamin A improves eye health. Vitamin C helps improving skiin and hair health and act as an immunity booster. ",
+      "type": " Vegetable",
+      "shelf_life": "2 days"
+    },
+    {
+      "id": "15",
+      "gname": "Potato",
+      "price": "30",
+      "unit": "kg",
+      "image": "https://www.google.com/imgres?imgurl=http%3A%2F%2F5.imimg.com%2Fdata5%2FUV%2FIF%2FMY-41885957%2Fpotatoes.jpg&tbnid=g_ryE7YgjrxIdM&vet=12ahUKEwjuppHx6YeEAxXmbmwGHVrSDzAQMygEegQIARB9..i&imgrefurl=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fpotatoes-15167669373.html&docid=KBnCwmu4UdfRtM&w=1444&h=960&q=potatoes&ved=2ahUKEwjuppHx6YeEAxXmbmwGHVrSDzAQMygEegQIARB9",
+      "desc": "Contains Vitamin C, Potassium, starch,.Potato helps in reducing inflammation, promote digestion and are good for skin. ",
+      "type": " Vegetable",
+      "shelf_life": "15 days"
+    },
+    {
+      "id": "16",
+      "gname": "Coca-Cola",
+      "price": "75",
+      "unit": "ml",
+      "image": "https://m.media-amazon.com/images/I/81kx2IPueEL.jpg",
+      "desc": "Happiness is all about creating Real Magic from everyday moments, spent together with family or friends. Turn up the energy during an afternoon lull, sweltering heat and long exhausting days with the crisp, delicious taste of Coca-Cola Original that is uplifting till the last sip.  ",
+      "type": " Soft drink",
+      "shelf_life": "3 Months"
+    },
+    {
+      "id": "17",
+      "gname": "Fanta",
+      "price": "50",
+      "unit": "ml",
+      "image": "https://www.bigbasket.com/media/uploads/p/xxl/251019_8-fanta-soft-drink-orange-flavoured.jpg",
+      "desc": "Fun, vibrant and bubbly – that’s what defines Fanta best! Fanta lets you make the most of a moment with the tempting taste and its tingling bubbles. This 'orange' drink entered the Indian market in the year 1993 and has been loved for its bright color, tempting taste and exciting bubbles. This vibrant soft drink can uplift feelings and help free your spirit, encouraging you to indulge in and enjoy each moment to the fullest. So, grab a Fanta bottle now, and enjoy the great Orangey kick in every sip!",
+      "type": " Soft drink",
+      "shelf_life": "3 Months"
+    },
+    {
+      "id": "18",
+      "gname": "Orion Strawberry Choco Pie",
+      "price": "263",
+      "unit": "1 pack (25 g x 20 pieces)",
+      "image": "https://m.media-amazon.com/images/I/514pyi+0VUL._AC_UF1000,1000_QL80_.jpg",
+      "desc": "Contains Folic acid, Viatmin C, Vitamin K, Lutein.Vitamin A improves eye health. Vitamin C helps improving skiin and hair health and act as an immunity booster. ",
+      "type": " snack",
+      "shelf_life": "2 days"
+    },
+    {
+      "id": "19",
+      "gname": "Haldiram's Nagpur Sev Bhujia",
+      "price": "30",
+      "unit": "kg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHrbyGvC8JZe7_J3Vl4lFFbJMdLXFztttjXQ&usqp=CAU",
+      "desc": "Haldiram brings to you your favourite bujhia sev which is made with the finest quality ingredients. It is a nationally recognised brand and trustworthy. Comes in better packaging to last longer. Suitable and liked by every age group. Quality standards are maintained. ",
+      "type": " snack",
+      "shelf_life": "7 month"
+    },
+    {
+      "id": "20",
+      "gname": "Everest Garam Masala",
+      "price": "100",
+      "unit": "100 gram",
+      "image": "https://ik.imagekit.io/wlfr/wellness/images/products/263516-1.jpg/tr:w-3840,dpr-1,c-at_max,cm-pad_resize,ar-1210-700,pr-true,f-webp,q-80,l-image,i-Wellness_logo_BDwqbQao9.png,lfo-bottom_right,w-200,h-90,c-at_least,cm-pad_resize,l-end",
+      "desc": "Made from a blend of assertive spices Enhances the taste of food ",
+      "type": " Spices",
+      "shelf_life": "12 months"
+    },
+    {
+      "id": "21",
+      "gname": "Harpic",
+      "price": "30",
+      "unit": "liter",
+      "image": "https://www.bigbasket.com/media/uploads/p/xxl/263973-2_10-harpic-power-plus-disinfectant-toilet-cleaner-liquid-orange.jpg",
+      "desc": " Disinfectant Toilet Cleaner. Kills 99.9% of germs Removes 10 x more yellowish and tough stains ",
+      "type": " toilet-item",
+      "shelf_life": "12 months"
+    },
+    {
+      "id": "22",
+      "gname": "Johnson's Blossoms Baby Powder",
+      "price": "70",
+      "unit": "gram",
+      "image": "https://images.meesho.com/images/products/175632852/yxutv_512.webp",
+      "desc": " Johnson & Johnson Blossoms Baby Powder gently absorbs excess moisture to help baby's skin feel comfortable. Delicately scented with a long-lasting fragrance, it leaves the skin feeling soft and dry while providing soothing comfort.",
+      "type": " baby-care",
+      "shelf_life": "24 months"
+    },
+    {
+      "id": "23",
+      "gname": "Johnson's Baby Shampoo",
+      "price": "200",
+      "unit": "ml",
+      "image": "https://www.bigbasket.com/media/uploads/p/xl/262921_18-johnsons-baby-no-more-tears-baby-shampoo.jpg ",
+      "desc": "  Johnson's Baby shampoo is as gentle to the eyes as pure water. Equipped with a pump for easy usage. It gently cleanses hair and is mild to eyes. Only Giggles. No More Tears. pH balanced and hypoallergenic. Recommended by doctors. No Parabens, No Formaldehyde, No Dye,",
+      "type": " baby-care",
+      "shelf_life": "12 months"
+    },
+    {
+      "gname": "Kiwi",
+      "price": "150",
+      "unit": "kg",
+      "image": "https://cdn.britannica.com/45/126445-050-4C0FA9F6/Kiwi-fruit.jpg",
+      "desc": "Kiwifruit contains vitamin K, which plays a role in blood clotting and might also help in vitamin D absorption by the body. Kiwi contains a protein-dissolving enzyme that may help digest proteins. Kiwifruit may help with depression. Kiwifruit is a rich source of potassium, which may help with kidney stones",
+      "type": "fruit",
+      "shelf_life": "7",
+      "id": "e3a7"
+    },
+    {
+      "id": "3692",
+      "gname": "Mango",
+      "price": "50",
+      "unit": "kg",
+      "image": "data:image/jpeg;base64,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",
+      "desc": "May Protect Against Some Diseases. The fruit packs plenty of polyphenols, which can be found in the peel, pulp, and seed kernel of the fruit. ...\nMay Support Heart Health. ...",
+      "type": "fruit",
+      "shelf_life": "7"
+    },
+    {
+      "id": "1b44",
+      "gname": "Kurkur",
+      "price": "10",
+      "unit": "g",
+      "image": "https://tiimg.tistatic.com/fp/2/007/881/twist-crunchy-namkeen-flavoured-spicy-solid-masti-masala-kurkure-namkeen--813.jpg",
+      "desc": "Kurkure Solid Masti Twisteez is a masala flavoured crunchy snack and are great when you are in a munchy mood. About the brand-Kurkure is a crunchy, .",
+      "type": "snack",
+      "shelf_life": "30"
+    },
+    {
+      "id": "4146",
+      "gname": "Litchi drink",
+      "price": "10",
+      "unit": "ml",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/3/MK/RG/MB/25448105/170-ml-litchi-juice.png",
+      "desc": "Lychee fruit has many health benefits. Consuming lychee is good for your heart, liver, and brain health. It is also effective against diseases like diabetes, cancer, and obesity. Its antioxidant activity can protect from free radical damage",
+      "type": "Soft drink",
+      "shelf_life": "30"
+    }
+  ]
+}

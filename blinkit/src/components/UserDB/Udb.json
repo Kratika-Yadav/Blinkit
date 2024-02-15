@@ -1,0 +1,121 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "firstName": "Madhu",
+      "lastName": "Naik",
+      "age": "25",
+      "gender": "female",
+      "email": "madhunaik11@gmail.com",
+      "phone": "9685742130",
+      "address": "churchStreet Benglore",
+      "state": "Karnatka"
+    },
+    {
+      "id": "2",
+      "firstName": "Sikha",
+      "lastName": "Pawar",
+      "age": "35",
+      "gender": "female",
+      "email": "shikhapawar12@gmail.com",
+      "phone": "6785742130",
+      "address": "Soninpat Hariyana",
+      "state": "Hariyana"
+    },
+    {
+      "id": "3",
+      "firstName": "Shivani",
+      "lastName": "Gupta",
+      "age": "29",
+      "gender": "female",
+      "email": "shivamigupta13@gmail.com",
+      "phone": "8885742130",
+      "address": "Mahendragarh Haryana",
+      "state": "Hariyana"
+    },
+    {
+      "id": "4",
+      "firstName": "Vandna",
+      "lastName": "Mallik",
+      "age": "30",
+      "gender": "female",
+      "email": "vandna14@gmail.com",
+      "phone": "7685742130",
+      "address": "Sonbhadra UP",
+      "state": "UP"
+    },
+    {
+      "id": "5",
+      "firstName": "Rozinza",
+      "lastName": "Ahmed",
+      "age": "33",
+      "gender": "female",
+      "email": "rozinaahmed15@gmail.com",
+      "phone": "9985742130",
+      "address": "Barpeta Assam",
+      "state": "Assam"
+    },
+    {
+      "id": "6",
+      "firstName": "Sujothi",
+      "lastName": "Singh",
+      "age": "25",
+      "gender": "female",
+      "email": "sujothi16@gmail.com",
+      "phone": "6585742130",
+      "address": "Tirupathar Tamil Nadu",
+      "state": "Tamil Nadu"
+    },
+    {
+      "id": "7",
+      "firstName": "Nirupama",
+      "lastName": "Manna",
+      "age": "25",
+      "gender": "female",
+      "email": "nirumanna17@gmail.com",
+      "phone": "6685742130",
+      "address": "Howrah Kolkata",
+      "state": "Kolkata"
+    },
+    {
+      "id": "531d",
+      "firstName": "Kratika",
+      "lastName": "Yadav",
+      "age": "25",
+      "gender": "Female",
+      "email": "krati97@gmail.com",
+      "phone": "9876543210",
+      "address": "BTM-II Phase Benglore, Karnatka"
+    },
+    {
+      "id": "206f",
+      "firstName": "Nirali",
+      "lastName": "Tamanna",
+      "age": "29",
+      "gender": "Female",
+      "email": "niralii95@gmail.com",
+      "phone": "987532410586",
+      "address": "Sidhi Bilaspur CG"
+    },
+    {
+      "id": "b4fc",
+      "firstName": "gbfhgjn",
+      "lastName": "vbn",
+      "age": "45",
+      "gender": "f",
+      "email": "fvghbjkl;",
+      "phone": "98754230.",
+      "address": "vgbhnjkl"
+    },
+    {
+      "id": "0acb",
+      "firstName": "krati",
+      "lastName": "yadav",
+      "age": "8",
+      "gender": "f",
+      "email": "gmail.com",
+      "phone": "78965423",
+      "address": "vgbhnjkml,;./"
+    }
+  ]
+}
